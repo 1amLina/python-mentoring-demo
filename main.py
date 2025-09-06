@@ -22,3 +22,5 @@ all_users = [
 
 adult_names = get_adult_users_names(all_users)
 print(f"Имена совершеннолетних пользователей: {adult_names}")
+
+# правка для ПР
